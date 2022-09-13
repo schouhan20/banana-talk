@@ -1,0 +1,16 @@
+textarea {
+    width: 600px;
+    height: 150px;
+    padding: 10px;
+   }
+   
+   #output {
+       border: 1px solid black;
+       height: 10vh;
+       width: 80%;
+       margin: 1 rem;
+       padding-left: 1rem;
+   }
+   h1 {
+    color: red;
+   }
