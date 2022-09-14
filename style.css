@@ -1,73 +1,81 @@
 .box {
     background-image: url('https://hdqwalls.com/wallpapers/minions-poster.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
+    font-family: 'Cinzel', serif;
+
 }
 
 #head {
     background-color:rgb(255, 238, 124);
+    padding-left: 10px;
 }
 
 #top {
 text-align: left;
  width: 800px;
+ padding-left: 10px;
 
 
 }
  
 button {
 background-color: blue;
-width: 100px;
-margin-left: 700px;
+color: white;
+border: white;
+margin-right: 70%S;
+
 }
 textarea {
-    width: 765px;
+    width: 50%;
     height: 150px;
-    padding: 1rem;
+    padding-left: 10px;
+    margin-left: 10px;
     
    }
    
    #output {
        border: 1px solid black;
        height: 23vh;
-       width: 780px;
+       width: 50%;
        padding-left: 1rem;
        background-color: white;
+       margin-left: 10px;
        
     
    }
     #mid {
 text-align:left;
+padding-left: 10px;
     }
    
     #ty {
      text-align: left;
-
+     padding-left: 10px;
+ 
     }
 
     footer {
         background-color:rgb(255, 238, 124);
         margin-top: 20px;
-        padding-left: 30px;
+        padding-left: 10px;
         padding-top: 5px;
         padding-right: 30px;
+        color: white;
+        font-weight: bolder;
+        font-size: larger;
        
     }
    h1 {
     align-items: center;
-    color: blue;
-
+    color: white;
 
    }
 
    h2 {
-    color: blue;
+     color: black;
     
-
    }
-
-   h3 {
-    color: blue;
-    
-
+   #links {
+    align-items: center
    }
